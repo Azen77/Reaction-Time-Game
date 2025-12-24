@@ -1,2 +1,0 @@
-# Reaction Time Game
-
