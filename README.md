@@ -1,7 +1,9 @@
 # Reaction Time Game – Verilog on DE10-Lite
 
 An interactive reaction-time game implemented in **Verilog** and deployed on the **DE10-Lite FPGA** using **Intel Quartus Prime**.  
-The game lights up one of two LEDs, and the player must press the correct push button before the LED turns off to score points.
+The game lights up one of two LEDs, and the player must press the correct push button before the LED turns off to score points.  
+
+[Watch Demo](https://youtu.be/MmUoBnSHzHs)
 
 ---
 
