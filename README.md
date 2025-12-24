@@ -83,14 +83,4 @@ Key states include:
 
 ---
 
-## ✅ What This Project Demonstrates
-- FPGA-based digital system design
-- Finite State Machines
-- Timing and delay control
-- Hardware randomization techniques
-- Real-time visual output
-- Clean modular Verilog architecture
-
----
-
 **Author:** Mazen Rashrash
